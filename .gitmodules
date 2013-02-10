@@ -1,6 +1,6 @@
-[submodule "async"]
+[submodule "ext/async"]
 	path = ext/async
 	url = https://github.com/Conjuro/async.git
-[submodule "smmap"]
+[submodule "ext/smmap"]
 	path = ext/smmap
 	url = https://github.com/Conjuro/smmap.git
