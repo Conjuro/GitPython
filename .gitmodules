@@ -1,6 +1,6 @@
 [submodule "async"]
-	path = git/ext/async
-	url = http://github.com/gitpython-developers/async.git
+	path = async
+	url = https://github.com/Conjuro/async.git
 [submodule "smmap"]
-	path = git/ext/smmap
-	url = http://github.com/Byron/smmap.git 
+	path = smmap
+	url = https://github.com/Conjuro/smmap.git
